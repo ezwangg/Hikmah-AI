@@ -186,7 +186,15 @@ Open `http://localhost:5173`
 
 ## Screenshots
 
-> *(Add screenshots here)*
+![Homepage](hikmah-app/public/screenshots/homepage%20Hikmah%20AI.png)
+
+![Chat 1](hikmah-app/public/screenshots/hikmah%20AI%201.png)
+
+![Chat 2](hikmah-app/public/screenshots/hikmah%20AI%202.png)
+
+![Chat 3](hikmah-app/public/screenshots/himah%20AI%203.png)
+
+![Chat 4](hikmah-app/public/screenshots/hikmah%20AI%204.png)
 
 ---
 
