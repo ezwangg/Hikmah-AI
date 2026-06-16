@@ -3,7 +3,3 @@ https://github.com/fawazahmed0/quran-api#readme
 
 Hadith API
 https://github.com/fawazahmed0/hadith-api#readme
-
-Gemini Key: AQ.Ab8RN6KHOgH3-hW4s7AQljEVxUnO5uNt9MvAMvNysBaiOS9iSg
-
-Supabase Password: IslamicAIChatbot@67
